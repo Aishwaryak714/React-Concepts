@@ -1,0 +1,8 @@
+.Navbar {
+    display: flex; 
+    justify-content: space-around; 
+    align-items: center; 
+    background-color: #e194c9;
+    border-bottom: 1px solid #e9ecef; 
+
+}

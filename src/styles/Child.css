@@ -1,0 +1,22 @@
+.form{
+    padding: 10px;
+}
+
+label{
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px;
+}
+
+input,button{
+    padding: 10px;
+    margin: 10px;
+}
+
+table,th,td{
+  margin: auto;
+  align-content: center;
+  border:  1px solid;
+  border-collapse: collapse;
+  padding: 5px;
+}
